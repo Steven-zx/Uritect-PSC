@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0+1",
+  "date": "2026-10-20",
+  "application_id": "app.uritect.psc",
+  "apk": "releases/Uritect_PSC_0.1.0_preview.apk",
+  "apk_bytes": 153783066,
+  "apk_sha256": "9ce3a3ec22818fb05e5169a93524b2ecfd27be861c850f4add159e39f14dd4b8",
+  "build_type": "debug development preview; not a Play release",
+  "model_sha256": "1380d9e04d044413b42bd045e3c7370bf3d06a720695d2654598657234742279",
+  "apk_embedded_model_matches_source": true,
+  "thesis_source_and_assets_unchanged": true,
+  "protected_thesis_files_checked": 70,
+  "regression_tests_passed": 193,
+  "psc_visual_tests_passed_after_golden_update": 5,
+  "static_analysis": "No issues found",
+  "original_signing_material_copied": false,
+  "cloud_identity_implemented": false,
+  "live_billing_implemented": false,
+  "public_clinical_release_validated": false,
+  "phone_installation_performed": false,
+  "github_publication_performed": false
+}
